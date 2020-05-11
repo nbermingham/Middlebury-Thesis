@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Cover Times}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Preliminaries}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}A Special Graph}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Polygons}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Complete Graphs}{9}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Cover Time Distribution of a Complete Graph}{10}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Pólya's Reccurence Theorem}{14}{section.2}%
+\contentsline {subsection}{\numberline {2.1}One-Dimensional Random Walk: The Cliff-Hanger}{15}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Stirling's Approximation Proof}{16}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Two-Dimensional Random Walk: The Drunk Man}{19}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Three-Dimensional Random Walk: The Drunk Bird \vspace {1em}}{21}{subsection.2.4}%
+\contentsline {section}{\numberline {A}Random Walk on a Chessboard: Source Code}{25}{appendix.A}%
